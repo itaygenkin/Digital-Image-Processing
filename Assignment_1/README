@@ -1,0 +1,10 @@
+Running Instructions:
+
+    1. Configure your image in the configuration. The program takes the first argument (argv[1]).
+    2. Run the program.
+    3. First and second LEFT click draw a rectangle.
+    4. If you want to redraw the rectangle then RIGHT click one time and go back to (3).
+    5. To draw the elliptic curved line LEFT click inside the rectangle.
+    6. If want to redraw, RIGHT click one time and go back to (3).
+    7. LEFT click one time will execute the transformation.
+    8. RIGHT click on the original image closes all windows.
